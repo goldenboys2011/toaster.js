@@ -1,5 +1,5 @@
 # Toaster.js
-A mini toaster librarie made for browser javascript
+A mini toaster library made for browser javascript
 
 ## Importing
 
